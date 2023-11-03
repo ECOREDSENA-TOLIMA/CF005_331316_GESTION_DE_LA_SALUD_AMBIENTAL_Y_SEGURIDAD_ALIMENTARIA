@@ -155,37 +155,37 @@
 
     .row.justify-content-center.mb-5
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/13.svg' alt='AvatarTop')
           p.text-center Los servicios
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/14.svg' alt='AvatarTop')
           p.text-center Las modalidades de prestación
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/15.svg' alt='AvatarTop')
           p.text-center La distribución de los recursos
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/16.svg' alt='AvatarTop')
           p.text-center Las tecnologías
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/17.svg' alt='AvatarTop')
           p.text-center Los mecanismos de abordaje de las poblaciones
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/18.svg' alt='AvatarTop')
@@ -195,7 +195,7 @@
 
     .row.justify-content-center.mb-5
       .col-10
-        .tarjeta.color-primario.p-5(style='border-radius:0px')
+        .tarjeta.color-primario1.p-5(style='border-radius:0px')
           .row.justify-content-center.align-items-center
             .col-2
               img(src='@/assets/curso/temas/tema1/19.svg', alt='Texto que describa la imagen')
@@ -215,35 +215,35 @@
 
     .row.justify-content-center.mb-5
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/21.svg' alt='AvatarTop')
           h2.text-center Primera infancia
           p.text-center Comprende de los 7 días hasta los 5 años, 11 meses y 29 días.
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/22.svg' alt='AvatarTop')
           h2.text-center Infancia
           p.text-center Comprende desde los 6 a 11 años.
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/23.svg' alt='AvatarTop')
           h2.text-center Adolescencia
           p.text-center Comprende desde los 12 a los 17 años.
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/24.svg' alt='AvatarTop')
           h2.text-center Adultez
           p.text-center Comprende entre los 29 a 59 años.
 
-        .tarjeta.color-primario.p-4.col-ipad
+        .tarjeta.color-primario1.p-4.col-ipad
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/25.svg' alt='AvatarTop')
