@@ -247,19 +247,19 @@
           .col-2 
             img(src="@/assets/curso/temas/tema2/19.svg", alt="alt")
           .col-10 
-            p Reducir el consumo de alcohol
+            p Reducir el consumo de alcohol.
         <hr style="border:15px;">
         .row.align-items-center  
           .col-2 
             img(src="@/assets/curso/temas/tema2/20.svg", alt="alt")
           .col-10 
-            p Higiene personal y ambiental
+            p Higiene personal y ambiental.
         <hr style="border:15px;">
         .row.align-items-center  
           .col-2 
             img(src="@/assets/curso/temas/tema2/21.svg", alt="alt")
           .col-10 
-            p Eliminar el uso del tabaco
+            p Eliminar el uso del tabaco.
         <hr style="border:15px;">
         .row.align-items-center  
           .col-2 
