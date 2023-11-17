@@ -26,19 +26,19 @@
       .col-10
         .tarjeta.color-secundario.p-5(style='border-radius:0px')
           .row.justify-content-center.align-items-center
-            .col-2
+            .col-4
               img(src='@/assets/curso/temas/tema2/2.svg', alt='Texto que describa la imagen')
-            .col-10
+            .col-7
               p Se describe como una actitud activa y responsable con respecto a la calidad de vida, permite comprender las evoluciones que favorecen la estabilidad humana y ante situaciones adversas, si bien el cuidado está implícito en la conducta humana, históricamente se ha atribuido su práctica a la mujer como se mencionó anteriormente. 
               p Es así como se hace necesario resaltar: 
 
-    .row.justify-content-center.mb-5
-      .col-6
-        TarjetaAudio.color-acento-botones.mb-3(
-          texto="acá va un audio"
-          :audio="require('@/assets/audio/1.mp3')"
-          @audio-hover="mostrarIndicadorTarjetaAudio = false"
-        )
+          
+              TarjetaAudio(style="background-color:#F9BCAB").mb-3(
+                texto="Promoción de la seguridad sanitaria y ambiental"
+                :audio="require('@/assets/audio/autocuidado.wav')"
+                @audio-hover="mostrarIndicadorTarjetaAudio = false"
+              )
+             
 
     .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
       img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
