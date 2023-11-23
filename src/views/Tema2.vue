@@ -60,7 +60,7 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta color-primario").mb-5 
       .row(titulo="Intervención en la población")
         .col-md-6.mb-4.mb-md-0
-          p Son acciones para la atención en salud y demás actores, orientadas a las promoción y prevención del individuo, la familia y la comunidad en cada etapa de la vida, incurren en los procesos sociales, económicos y ambientales.
+          p Son acciones para la atención en salud y demás actores, orientadas a la promoción y prevención del individuo, la familia y la comunidad en cada etapa de la vida, incurren en los procesos sociales, económicos y ambientales.
 
         .col-md-6
           figure
@@ -68,7 +68,7 @@
 
       .row(titulo="Intervención en la familia")
         .col-md-6.mb-4.mb-md-0
-          p Este conjunto de intervenciones está dirigida a la familias y particularidades de dinámicas familiares que buscan un buen manejo de la salud en una región.
+          p Este conjunto de intervenciones está dirigida a las familias y particularidades de dinámicas familiares que buscan un buen manejo de la salud en una región.
       
         .col-md-6
           figure
@@ -143,7 +143,7 @@
             p.mb-0 Esta atención integral en salud notifica, detecta y trata tempranamente la enfermedad y los traumatismos que tienen las personas, de esta manera la estrategia garantiza un mejor nivel de vida en la salud del individuo, la familia y la población y, conserva el logro de una mejor práctica de los usuarios durante el proceso de atención en salud con precios acordes a los resultados conseguidos durante la recuperación y la rehabilitación de la enfermedad.
             br
             br
-            | Teniendo en cuenta los criterios antes mencionados se lleva a cabo lo que se comprende como RIAS, que se definen a partir de su principal objetivo: 
+            | Teniendo en cuenta los criterios antes mencionados, se lleva a cabo lo que se comprende como RIAS, que se definen a partir de su principal objetivo: 
 
     .row.justify-content-center.mb-5
       .col-10
@@ -171,7 +171,7 @@
               img(src='@/assets/curso/temas/tema2/11.svg', alt='Texto que describa la imagen')
           
         h2.text-center Ruta integral de atención para la promoción y mantenimiento de la salud
-        p Se encarga de velar por las acciones mantenimiento, cuidado, educación, protección, detección temprana de las enfermedades del individuo para la salud, las familias y las comunidades, incluyendo atenciones obligatorias para toda la población.
+        p Se encarga de velar por las acciones, mantenimiento, cuidado, educación, protección, detección temprana de las enfermedades del individuo para la salud, las familias y las comunidades, incluyendo atenciones obligatorias para toda la población.
 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
@@ -180,7 +180,7 @@
               img(src='@/assets/curso/temas/tema2/12.svg', alt='Texto que describa la imagen')
           
         h2.text-center Rutas integrales de atención para grupos de riesgo
-        p Las entidades territoriales y las Entidades Promotoras de Salud (EPS) tienen como finalidad articular las intervenciones individuales y colectivas en las acciones determinado el diagnóstico, el tratamiento, la rehabilitación y el cuidado de la salud, para la atención del individuo en los servicios de salud que se requieran.
+        p Las entidades territoriales y las Entidades Promotoras de Salud (EPS) tienen como finalidad articular las intervenciones individuales y colectivas en las acciones determinadas, el diagnóstico, el tratamiento, la rehabilitación y el cuidado de la salud, para la atención del individuo en los servicios de salud que se requieran.
 
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
@@ -188,7 +188,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/13.svg', alt='Texto que describa la imagen')
           
-        h2.text-center Rutas integrales de atención específica para eventos.
+        h2.text-center Rutas integrales de atención específica para eventos
         p Corresponden a la acción temprana de la detección del diagnóstico, el tratamiento, la rehabilitación y en atención del individuo en el cuidado de la salud integral de los eventos o condiciones específicas de la salud, priorizadas en un territorio como la educación para la salud, potenciando el cuidado.
 
     .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
@@ -218,7 +218,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Estilos de vida saludable
 
-    p(data-aos="fade-left") Según la OMS el estilo de vida saludable es una forma de vida en las interacciones de las condiciones de vida de un individuo, la familia y la sociedad de acuerdo con sus conductas, determinada por factores de riesgo socioculturales y características personales de una persona.
+    p(data-aos="fade-left") Según la OMS, el estilo de vida saludable es una forma de vida en las interacciones de las condiciones de vida de un individuo, la familia y la sociedad de acuerdo con sus conductas, determinada por factores de riesgo socioculturales y características personales de una persona.
     p(data-aos="fade-left") Por lo tanto, el enfoque del autocuidado está orientado a las decisiones, las capacidades y las acciones que el ser humano, la comunidad y el Estado adopta para proteger la salud individual de las familias y de la sociedad en un territorio. Aquí se observa que las responsabilidades que asume el individuo y la comunidad generan oportunidad en el desarrollo de las condiciones para la seguridad y el bienestar, la convivencia, el cuidado, la solidaridad, la cultura, la seguridad social y el fortalecimiento de las redes de apoyo sociocultural.
     p(data-aos="fade-left").mb-5 Para desarrollar las estrategias de una vida plena y saludable hay que tener presente los 7 hábitos que describe la OMS:  
 

@@ -7,7 +7,7 @@
         span 3
       h1 Actores sociales y comunitarios relacionados con la salud ambiental
 
-    p(data-aos="fade-left") En el ámbito de la salud ambiental y con la colaboración de los diferentes actores sociales se busca promover e impulsar la calidad de vida y la salud poblacional de las presentes y futuras generaciones, para materializar el derecho a un ambiente sano.
+    p(data-aos="fade-left") En el ámbito de la salud ambiental y con la colaboración de los diferentes actores sociales, se busca promover e impulsar la calidad de vida y la salud poblacional de las presentes y futuras generaciones, para materializar el derecho a un ambiente sano.
     p(data-aos="fade-left").mb-5 Por medio de la transformación positiva de los determinantes sociales, sanitarios y del medioambiente, bajo el enfoque metodológico de las fuerzas motrices o fuerzas impulsoras FPEEEA (Fuerza motriz, Presión, Estado, Exposición, impacto sobre la salud humana y Acción). 
 
     .row.justify-content-center.align-items-center.mb-5

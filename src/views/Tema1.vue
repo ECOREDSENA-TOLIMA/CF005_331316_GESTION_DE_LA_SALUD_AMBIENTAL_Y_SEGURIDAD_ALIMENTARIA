@@ -89,47 +89,23 @@
     .row.justify-content-center.mb-5
       .col-3.p-5
         figure
-          img(src='@/assets/curso/temas/tema1/6.svg')
-      
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/temas/tema1/3.svg' alt='AvatarTop' style='width:600px')
-          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #F1ECE6")
-            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
-              span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
-              h5.mb-0 <strong>Los trazadores</strong>
-            p Se identifican los trazadores como la salud de los niños, o de la salud materna, o eficacia de los servicios de salud como las coberturas de vacunación.
-           
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-up")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/temas/tema1/4.svg' alt='AvatarTop' style='width:600px')
-          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #F1ECE6")
-            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
-              span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
-              h5.mb-0 <strong>La información</strong>
-            p Se busca la información que permita calcular el estado actual de estos indicadores, se establece si tienen una tendencia a la baja o al aumento
-
-      .col-sm-3.col-xl-3.mb-4.mb-xl-0(data-aos="fade-up")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/temas/tema1/5.svg' alt='AvatarTop' style='width:600px')
-          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #F1ECE6")
-            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
-              span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
-              h5.mb-0 <strong>El diagnóstico</strong>
-            p Se hace un diagnóstico de la salud de la comunidad.
+          img(src='@/assets/curso/temas/tema1/6.svg').mt-5
+      .col-3
+        img(src='@/assets/curso/temas/tema1/3.svg').mb-5
+        h3 Los trazadores
+        p Se identifican los trazadores como la salud de los niños, o de la salud materna, o eficacia de los servicios de salud como las coberturas de vacunación.
+      .col-3
+        img(src='@/assets/curso/temas/tema1/4.svg').mb-5
+        h3 La información
+        p Se busca la información que permita calcular el estado actual de estos indicadores, se establece si tienen una tendencia a la baja o al aumento.
+      .col-3
+        img(src='@/assets/curso/temas/tema1/5.svg').mb-5
+        h3 El diagnóstico
+        p Se hace un diagnóstico de la salud de la comunidad.
 
     p(data-aos="fade-left") Además, en lo que se refiere a la epidemiología cabe señalar que las siguientes disposiciones de este Decreto rigen en todo el territorio nacional y son de obligación para su observancia y aplicación por parte de las organizaciones y los miembros del sistema común de medicina socioeconómica y las organizaciones responsables para los regímenes de excepción a que se refiere el Artículo 279 de la Ley 100 de 1993 y la Ley 647 de 2001, las personas naturales, las organizaciones comunitarias y la comunidad en general, así como las organizaciones u otros organismos con intereses ajenos a la industria, siempre que sus actividades afecten la salud de las personas, de la población en general y se pueda generar información útil y necesaria para la consecución de sus objetivos fundamentales y objetivos del sistema de vigilancia de la salud pública.  
     
-    p(data-aos="fade-left").mb-5 Desde el cuidado de la población surge uno de los decretos que a partir de sus disposiciones crea y reglamenta el Sistema de vigilancia en salud pública, el cual se presenta como el Decreto 3518 de 2006 Artículo 3 en el que dispone las definiciones que allí se configuran. 
+    p(data-aos="fade-left").mb-5 Desde el cuidado de la población surge uno de los decretos que a partir de sus disposiciones crea y reglamenta el Sistema de vigilancia en salud pública, el cual se presenta como el Decreto 3518 de 2006, Artículo 3 en el que dispone las definiciones que allí se configuran. 
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -151,7 +127,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 En los momentos que se le brinda la atención en salud al individuo, la familia y su entorno social o comunitario se le denomina curso de vida, en este espacio se suma como sujeto de atención según la dinámica familiar y de las incidencias o situaciones que estas presenten, con el fin de promover y fortalecer las familias funcionales con capacidad de reflexión y acción libre sobre su situación y eventos de transformación que orienten al desarrollo humano, acorde con su contexto social y cultural en un territorio.
 
-    p(data-aos="fade-left").mb-5 Además de formalizar la atención en salud situando en el centro a las personas, las familias y las comunidades se solicita que la planeación, la ejecución, el seguimiento, el monitoreo y la evaluación de la atención en salud en el marco de las Rutas Integrales de Atención en Salud (RIAS) se ejecute considerando de forma integral a los individuos de atención con sus especialidades y sus contextos territoriales, lo cual involucra realizar ajustes en aspectos como: 
+    p(data-aos="fade-left").mb-5 Además de formalizar la atención en salud, situando en el centro a las personas, las familias y las comunidades, se solicita que la planeación, la ejecución, el seguimiento, el monitoreo y la evaluación de la atención en salud en el marco de las Rutas Integrales de Atención en Salud (RIAS) se ejecute considerando de forma integral a los individuos de atención con sus especialidades y sus contextos territoriales, lo cual involucra realizar ajustes en aspectos como: 
 
     .row.justify-content-center.mb-5
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")

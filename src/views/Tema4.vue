@@ -117,7 +117,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/6.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 La atención primaria en salud reconoce elementos involucrados y sinérgicos: servicios de salud integrales e incluidos, que integran como recursos centrales funcionalidades y activos de atención primaria y salud comunitaria; ocupaciones y políticas multidisciplinarias en la zona de los determinantes de la salud más difundidos y extendidos, estableciendo diálogo con los individuos, las familias y la sociedad, empoderándolas sobre las propias prácticas para aumentar la colaboración social, mejorar el autocuidado y la autosuficiencia en salud. La APS tiene presente determinantes más amplios de la salud, centrándose en puntos usuales e interrelacionados de la salud física, la salud psicológica, la salud social y la paz.
+        p.mb-0 La atención primaria en salud reconoce elementos involucrados y sinérgicos: servicios de salud integrales e incluidos, que integran como recursos centrales funcionalidades y activos de atención primaria y salud comunitaria; ocupaciones y políticas multidisciplinarias en la zona de los determinantes de la salud más difundidos y extendidos, estableciendo diálogo con los individuos, las familias y la sociedad, empoderándolas sobre las propias prácticas para aumentar la colaboración social, mejorar el autocuidado y la autosuficiencia en salud. La APS tiene presente, determinantes más amplios de la salud, centrándose en puntos usuales e interrelacionados de la salud física, la salud psicológica, la salud social y la paz.
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.2 Redes integradas de servicios de salud
