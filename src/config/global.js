@@ -311,6 +311,11 @@ export default {
             'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
+          nombre: 'Leydy Jhuliana Jaramillo Mejía',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Asesora Metodológica',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
@@ -327,6 +332,11 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
+          nombre: 'Juan Gilberto Giraldo Córtes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
           nombre: 'Maria Inés Machado López',
           cargo: 'Metodóloga',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
@@ -337,9 +347,9 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Oscar Iván Uribe Ortiz',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
+          nombre: 'Aruzidna Sánchez Alonso',
+          cargo: 'Diseñadora de Contenidos Digitales',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Davison Gaitán Escobar',
@@ -367,7 +377,7 @@ export default {
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
