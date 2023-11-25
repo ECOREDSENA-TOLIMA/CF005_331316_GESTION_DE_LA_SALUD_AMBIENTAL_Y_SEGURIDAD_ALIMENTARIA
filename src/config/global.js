@@ -157,9 +157,9 @@ export default {
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Decreto-3518-de-2006.pdf',
     },
     {
-      tema: '',
+      tema: 'Perfil demográfico y epidemiológico del grupo social',
       referencia:
-        'Resolución 3218 de 2018. [Ministerio de Salud y Protección Social]. Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la población materno perinatal y se establecen las directrices para su operación. Agosto 2 de 2018. ',
+        'Resolución 3280 de 2018. [Ministerio de Salud y Protección Social]. Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la población materno perinatal y se establecen las directrices para su operación. Agosto 2 de 2018. ',
       tipo: 'Documento',
       link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%2020183280.pdf',
@@ -275,7 +275,7 @@ export default {
     },
     {
       referencia:
-        'Resolución 3218 de 2018. [Ministerio de Salud y Protección Social]. Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la población materno perinatal y se establecen las directrices para su operación. Agosto 2 de 2018. ',
+        'Resolución 3280 de 2018. [Ministerio de Salud y Protección Social]. Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la población materno perinatal y se establecen las directrices para su operación. Agosto 2 de 2018. ',
       link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%2020183280.pdf',
     },
@@ -300,7 +300,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Luz Adriana Cárdenas González',
+          nombre: 'Suralba Mosquera M',
           cargo: 'Experta Temática',
           centro: 'Regional Antioquia - Centro de Servicios de Salud',
         },
