@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 El consumidor digital y nuevos modelos de negocios.
+          h2 Promoción de la seguridad sanitaria y ambiental.
         p.mb-4 #[b Objetivo:] identificar conocimientos del consumidor digital, del marketing digital y de los nuevos modelos de negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

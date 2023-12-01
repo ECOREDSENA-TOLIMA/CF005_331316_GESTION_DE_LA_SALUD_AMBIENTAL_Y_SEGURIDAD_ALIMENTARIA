@@ -151,7 +151,7 @@ export default {
     {
       tema: 'Perfil demográfico y epidemiológico del grupo social',
       referencia:
-        'Decreto 3518 de 2006. [Ministerio de Salud y Protección Social]. Por el cual se crea y reglamenta el Sistema de Vigilancia en Salud Pública y se dictan otras disposiciones. Octubre 10 de 2006. ',
+        'Decreto 3518 de 2006. [Ministerio de Salud y Protección Social]. Por el cual se crea y reglamenta el Sistema de Vigilancia en Salud Pública y se dictan otras disposiciones. Octubre 09 de 2006.',
       tipo: 'Documento',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Decreto-3518-de-2006.pdf',
