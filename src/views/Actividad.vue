@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Promoción de la seguridad sanitaria y ambiental.
-        p.mb-4 #[b Objetivo:] identificar conocimientos del consumidor digital, del marketing digital y de los nuevos modelos de negocio.
+        p.mb-4 #[b Objetivo:] Explicar los conceptos de seguridad sanitaria y ambiental que se centra en proporcionar una comprensión integral de los aspectos claves relacionados con la salud y el entorno.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
